@@ -1,6 +1,6 @@
 <?php
 
-namespace Swaggest\JsonDiff\JsonPatch;
+namespace Odanijel\JsonDiff\JsonPatch;
 
 class Add extends OpPathValue
 {
