@@ -185,7 +185,7 @@ JSON;
     }
 
     /**
-     * @throws \Swaggest\JsonDiff\Exception
+     * @throws \Odanijel\JsonDiff\Exception
      */
     public function testDiff()
     {
