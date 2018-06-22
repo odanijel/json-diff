@@ -7,6 +7,10 @@
         {
             "name": "Viacheslav Poturaev",
             "email": "vearutop@gmail.com"
+        },
+        {
+            "name": "Danijel Ostojić",
+            "email": "danijelostojic@gmail.com"
         }
     ],
     "require-dev": {
