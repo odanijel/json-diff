@@ -1,11 +1,11 @@
 <?php
 
-namespace Swaggest\JsonDiff;
+namespace Odanijel\JsonDiff;
 
-use Swaggest\JsonDiff\JsonPatch\Add;
-use Swaggest\JsonDiff\JsonPatch\Remove;
-use Swaggest\JsonDiff\JsonPatch\Replace;
-use Swaggest\JsonDiff\JsonPatch\Test;
+use Odanijel\JsonDiff\JsonPatch\Add;
+use Odanijel\JsonDiff\JsonPatch\Remove;
+use Odanijel\JsonDiff\JsonPatch\Replace;
+use Odanijel\JsonDiff\JsonPatch\Test;
 
 class JsonDiff
 {
