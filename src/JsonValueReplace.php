@@ -1,6 +1,6 @@
 <?php
 
-namespace Swaggest\JsonDiff;
+namespace Odanijel\JsonDiff;
 
 
 class JsonValueReplace
