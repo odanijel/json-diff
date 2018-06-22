@@ -16,12 +16,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Odanijel\\JsonDiff\\": "src/"
+            "Swaggest\\JsonDiff\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Odanijel\\JsonDiff\\Tests\\": "tests/src"
+            "Swaggest\\JsonDiff\\Tests\\": "tests/src"
         }
     },
     "config": {
