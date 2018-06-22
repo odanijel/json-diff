@@ -1,10 +1,10 @@
 <?php
 
-namespace Swaggest\JsonDiff\Tests;
+namespace Odanijel\JsonDiff\Tests;
 
-use Swaggest\JsonDiff\Exception;
-use Swaggest\JsonDiff\JsonDiff;
-use Swaggest\JsonDiff\JsonPatch;
+use Odanijel\JsonDiff\Exception;
+use Odanijel\JsonDiff\JsonDiff;
+use Odanijel\JsonDiff\JsonPatch;
 
 class JsonPatchTest extends \PHPUnit_Framework_TestCase
 {
