@@ -1,9 +1,9 @@
 <?php
 
-namespace Swaggest\JsonDiff\Tests;
+namespace Odanijel\JsonDiff\Tests;
 
 
-use Swaggest\JsonDiff\JsonValueReplace;
+use Odanijel\JsonDiff\JsonValueReplace;
 
 class ReplaceTest extends \PHPUnit_Framework_TestCase
 {
