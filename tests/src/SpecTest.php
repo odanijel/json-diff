@@ -1,9 +1,9 @@
 <?php
 
-namespace Swaggest\JsonDiff\Tests;
+namespace Odanijel\JsonDiff\Tests;
 
-use Swaggest\JsonDiff\Exception;
-use Swaggest\JsonDiff\JsonPatch;
+use Odanijel\JsonDiff\Exception;
+use Odanijel\JsonDiff\JsonPatch;
 
 /**
  * @see https://github.com/json-patch/json-patch-tests
