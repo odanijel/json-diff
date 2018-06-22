@@ -8,7 +8,7 @@ use Odanijel\JsonDiff\JsonDiff;
 class RearrangeArrayTest extends \PHPUnit_Framework_TestCase
 {
     /**
-     * @throws \Swaggest\JsonDiff\Exception
+     * @throws \Odanijel\JsonDiff\Exception
      */
     public function testRearrangeArray()
     {
