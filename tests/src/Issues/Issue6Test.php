@@ -1,13 +1,13 @@
 <?php
 
-namespace Swaggest\JsonDiff\Tests\Issues;
+namespace Odanijel\JsonDiff\Tests\Issues;
 
-use Swaggest\JsonDiff\JsonDiff;
-use Swaggest\JsonDiff\JsonPatch;
+use Odanijel\JsonDiff\JsonDiff;
+use Odanijel\JsonDiff\JsonPatch;
 
 
 /**
- * @see https://github.com/swaggest/json-diff/issues/6
+ * @see https://github.com/odanijel/json-diff/issues/6
  */
 class Issue6Test extends \PHPUnit_Framework_TestCase
 {
