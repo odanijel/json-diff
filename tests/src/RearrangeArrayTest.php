@@ -1,9 +1,9 @@
 <?php
 
-namespace Swaggest\JsonDiff\Tests;
+namespace Odanijel\JsonDiff\Tests;
 
 
-use Swaggest\JsonDiff\JsonDiff;
+use Odanijel\JsonDiff\JsonDiff;
 
 class RearrangeArrayTest extends \PHPUnit_Framework_TestCase
 {
