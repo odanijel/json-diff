@@ -1,10 +1,10 @@
 <?php
 
-namespace Swaggest\JsonDiff\Tests;
+namespace Odanijel\JsonDiff\Tests;
 
 
-use Swaggest\JsonDiff\Exception;
-use Swaggest\JsonDiff\JsonPointer;
+use Odanijel\JsonDiff\Exception;
+use Odanijel\JsonDiff\JsonPointer;
 
 class JsonPointerTest extends \PHPUnit_Framework_TestCase
 {
