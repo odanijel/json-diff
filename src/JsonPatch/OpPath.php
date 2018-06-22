@@ -1,6 +1,6 @@
 <?php
 
-namespace Swaggest\JsonDiff\JsonPatch;
+namespace Odanijel\JsonDiff\JsonPatch;
 
 
 abstract class OpPath
