@@ -9,7 +9,7 @@ use Odanijel\JsonDiff\JsonPatch;
 class ExampleTest extends \PHPUnit_Framework_TestCase
 {
     /**
-     * @throws \Swaggest\JsonDiff\Exception
+     * @throws \Odanijel\JsonDiff\Exception
      */
     public function testDiff()
     {
