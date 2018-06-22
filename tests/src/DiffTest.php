@@ -1,9 +1,9 @@
 <?php
 
-namespace Swaggest\JsonDiff\Tests;
+namespace Odanijel\JsonDiff\Tests;
 
 
-use Swaggest\JsonDiff\JsonDiff;
+use Odanijel\JsonDiff\JsonDiff;
 
 class DiffTest extends \PHPUnit_Framework_TestCase
 {
