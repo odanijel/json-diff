@@ -1,16 +1,16 @@
 <?php
 
-namespace Swaggest\JsonDiff;
+namespace Odanijel\JsonDiff;
 
-use Swaggest\JsonDiff\JsonPatch\Add;
-use Swaggest\JsonDiff\JsonPatch\Copy;
-use Swaggest\JsonDiff\JsonPatch\Move;
-use Swaggest\JsonDiff\JsonPatch\OpPath;
-use Swaggest\JsonDiff\JsonPatch\OpPathFrom;
-use Swaggest\JsonDiff\JsonPatch\OpPathValue;
-use Swaggest\JsonDiff\JsonPatch\Remove;
-use Swaggest\JsonDiff\JsonPatch\Replace;
-use Swaggest\JsonDiff\JsonPatch\Test;
+use Odanijel\JsonDiff\JsonPatch\Add;
+use Odanijel\JsonDiff\JsonPatch\Copy;
+use Odanijel\JsonDiff\JsonPatch\Move;
+use Odanijel\JsonDiff\JsonPatch\OpPath;
+use Odanijel\JsonDiff\JsonPatch\OpPathFrom;
+use Odanijel\JsonDiff\JsonPatch\OpPathValue;
+use Odanijel\JsonDiff\JsonPatch\Remove;
+use Odanijel\JsonDiff\JsonPatch\Replace;
+use Odanijel\JsonDiff\JsonPatch\Test;
 
 /**
  * JSON Patch is specified in [RFC 6902](http://tools.ietf.org/html/rfc6902) from the IETF.
